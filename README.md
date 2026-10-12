@@ -23,7 +23,7 @@
 
 - [**liderastana.kz**](https://liderastana.kz). Поисково-спасательный отряд, full-stack and designer.
 - [**emir4ik.com**](https://emir4ik.com). Личный сайт, full-stack and designer.
-- 
+  
 ## Связь
 
 <a href="https://discord.com/users/mremir4ik"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
