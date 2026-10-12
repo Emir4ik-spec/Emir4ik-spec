@@ -1,61 +1,34 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/W7j80IwwaPkAAAAM/komaru-cat.gif" width="180"/>
+<a href="https://emir4ik.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=22&duration=3200&pause=900&color=67E8F9&vCenter=true&width=520&height=40&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%AD%D0%BC%D0%B8%D1%80;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+DDoS-%D0%B0%D1%82%D0%B0%D0%BA%D0%B8+%D1%81%D0%BA%D1%83%D1%87%D0%BD%D1%8B%D0%BC%D0%B8;Go+%C2%B7+TypeScript+%C2%B7+Nuxt+%C2%B7+XDP" alt="Привет, я Эмир" />
+</a>
 
-  <h1>Привет, я Emir 👋</h1>
-  <p>Full-stack разработчик. Делаю защиту от DDoS, хостинг и сервисы для Minecraft-проектов.</p>
+Я Эмир, full-stack разработчик из Астаны, который слишком глубоко залез в сети. Большую часть времени я держу сайты онлайн, пока кто-то очень хочет их положить, а в остальное время делаю штуки для Minecraft-проектов.
 
-  <div id="badges">
-    <a href="https://emir4ik.com">
-      <img src="https://img.shields.io/badge/emir4ik.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"/>
-    </a>
-    <a href="https://t.me/USERNAME">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-ther=white" alt="Telegram"/>
-    </a>
-    <a href="https://discord.gg/INVITE">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-    <a href="mailto:EMAIL">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-bae" alt="Email"/>
-    </a>
-  </div>
-</div>
+Основной стек: Go и TypeScript, Nuxt/Vue на фронте, Node на бэке, а eBPF/XDP — когда пакеты нужно убить ещё до того, как они дойдут до приложения.
 
----
+Иногда пишу на Java, в основном плагины для Minecraft.
 
-## 🛡️ antiddos.lol
+## Активные проекты
 
-Своя защита сайтов от DDoS, от сетевого уровня до браузера.
+То, что я делаю и поддерживаю сейчас.
 
-- **[antiddos.lol](https://antiddos.lol)** — сам сервис. Мусорный трафик отсекается ещё в ядре Linux (XDP), дальше идут WAF и проверка браузера, написанная на Go. До сервера
-клиента доходят только живые посетители.
-- **[panel.antiddos.lol](https://panel.antiddos.lol)** — панель клиента: домены и хосты, графики трафика в реальном времени, отчёты об атаках, правила фильтрации, гео- и
-ASN-блокировки.
-- **[webcaptcha.antiddos.lol](https://webcaptcha.antiddos.lol)** — своя капча: невидимая проверка с proof-of-work, а при атаке пазл. Без Google и сторонних сервисов, подключается
-к любому сайту.
+-   [antiddos.lol](https://antiddos.lol). Мой сервис защиты от DDoS, владелец и full-stack разработчик. Мусорный трафик отсекается прямо в ядре Linux через XDP, дальше идут WAF и проверка браузера на Go, и до сервера клиента доходят только живые посетит
+-   [panel.antiddos.lol](https://panel.antiddos.lol). Панель клиента antiddos.lol, full-stack разработчик и дизайнер. Графики трафика в реальном времени, отчёты об атаках,     правила фильтрации, блокировки по странам и ASN — всё в одном месте.
+-   [webcaptcha.antiddos.lol](https://webcaptcha.antiddos.lol). Моя капча, full-stack разработчик. Обычные посетители проходят невидимую проверку с proof-of-work, а когда идёт атака, появляется пазл. Без Google и сторонних сервисов, ставится на любой
+-   [zdonate.me](https://zdonate.me). Платформа донат-магазинов для Minecraft-серверов, full-stack разработчик. Магазин запускается за пару минут: свой домен, шаблон оформления,
+приём платежей.
+-   [zertix.pw](https://zertix.pw). Хостинг Minecraft-серверов, Python-приложений и VDS, full-stack разработчик.
 
-## 🎮 Проекты
+## Разовые проекты
 
-- **[zdonate.me](https://zdonate.me)** — платформа донат-магазинов для Minару минут, свой домен, шаблоны оформления и приём платежей.
-- **[zertix.pw](https://zertix.pw)** — хостинг Minecraft-серверов, Python-приложений и VDS.
-- **[liderastana.kz](https://liderastana.kz)** — сайт волонтёрского поискоr.kz» в Астане.
-- **[emir4ik.com](https://emir4ik.com)** — мой личный сайт.
+Сделал один раз, и они до сих пор живут.
 
-## 🧰 Стек
+-   [liderastana.kz](https://liderastana.kz). Сайт волонтёрского поисково-спасательного отряда Lider.kz из Астаны, который помогает искать пропавших людей. Поднял его заново, и
+теперь он работает за antiddos.lol.
+-   [emir4ik.com](https://emir4ik.com). Мой личный сайт, скорее всего, ты пришёл как раз оттуда.
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&log
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&e"/>
-  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/eBPF%20%2F%20XDP-222222?style=fla=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-</p>
+## Связаться со мной
 
-## ✨ Пара фактов
-
-- Пишу защиту, которую сам же пытаюсь положить на стенде.
-- Если сайт открылся сразу, а не через пять проверок, значит, всё работает как надо.
+-   [emir4ik.com](https://emir4ik.com). Всё обо мне.
+-   [t.me/USERNAME](https://t.me/USERNAME). Пиши сюда.
+-   [EMAIL](mailto:EMAIL). Или на почту, если хочется официально.
