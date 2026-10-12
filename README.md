@@ -4,13 +4,12 @@
 
 Full-stack разработчик из Астаны. Занимаюсь защитой от DDoS и проектами для Minecraft.
 
-Стек: Go, TypeScript, Nuxt/Vue, Node, eBPF/XDP, немного Java.
+Стек: Go, TypeScript, Nuxt/Vue,  немного Java.
 
 ## Проекты
 
--   [antiddos.lol](https://antiddos.lol). Защита сайтов от DDoS: фильтрация в ядре через XDP, WAF и проверка браузера на Go.
+-   [antiddos.lol](https://antiddos.lol). Защита сайтов от DDoS: фильтрация в ядре через WAF и проверки браузера.
 -   [panel.antiddos.lol](https://panel.antiddos.lol). Панель клиента: трафик, атаки, правила.
--   [webcaptcha.antiddos.lol](https://webcaptcha.antiddos.lol). Своя капча без Google.
 -   [zdonate.me](https://zdonate.me). Донат-магазины для Minecraft-серверов.
 -   [zertix.pw](https://zertix.pw). Хостинг Minecraft-серверов и VDS.
 -   [liderastana.kz](https://liderastana.kz). Сайт поисково-спасательного отряда Lider.kz.
